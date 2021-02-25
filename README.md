@@ -1,5 +1,5 @@
 # shutdown.exe
-this fake Windows Shutdown and Annotation tool app opens [Mope.io](https://mope.io) in _fullscreen mode._ not the original Windows Shutdown and Annotation tool.
+this fake Windows Shutdown and Annotation tool app opens [Mope.io](https://mope.io) in _kiosk mode._ not the original Windows Shutdown and Annotation tool.
 
 To close this app, hit ctrl+alt+del and open task manager
 then kill the chrome.exe process.
